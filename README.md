@@ -9,12 +9,12 @@ I have recently completed my master's studies in data science, specializing in m
 <br>
 
 **Languages/Libraries**: Python, C++, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Transformers, FEDn, Flower, and LangChain   
-**Cloud Services**:   
-**Database Query Languages**:   
-**DBMS**:   
-**Visualization Tools**:   
-**Version Control**:   
-**Orchestration Tools**:
+**Cloud Services**: AWS S3 buckets, Data Migration Service (DMS), EC2, and SageMaker    
+**Database Query Languages**: SQL  
+**DBMS**: PostgreSQL, Snowflake, Elastic DB, and AWS Redshift  
+**Visualization Tools**: Microsoft Power BI  
+**Version Control**: Git  
+**Orchestration Tools**: Apache Kafka, Apache Airflow, Docker, Ansible, and Kubernetes
 
 ---
 
