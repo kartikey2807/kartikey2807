@@ -8,8 +8,7 @@ I have recently completed my master's studies in data science, specializing in m
 </div>
 <br>
 
-
-**Languages/Libraries**: Python, C++, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib,    
+**Languages/Libraries**: Python, C++, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Transformers, FEDn, and LangChain   
 **Cloud Services**:   
 **Database Query Languages**:   
 **DBMS**:   
