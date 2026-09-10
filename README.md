@@ -18,7 +18,7 @@ I have recently completed my master's studies in data science, specializing in m
 
 |Project|Skills|
 |:------|:-----|
-|[Online and Federated Learning for Predictive Maintenance](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2083501&dswid=5960)|`federated learning` `online learning` `transformers`|
+|[Online and Federated Learning for Predictive Maintenance](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2083501&dswid=5960)|`federated learning` `online learning` `transformers` `autoencoder`|
 
 ---
 
