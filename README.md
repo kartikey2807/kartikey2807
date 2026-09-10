@@ -19,6 +19,7 @@ I have recently completed my master's studies in data science, specializing in m
 |Project|Skills|
 |:------|:-----|
 |[Online and Federated Learning for Predictive Maintenance](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2083501&dswid=5960)|`federated learning` `online learning` `transformers` `autoencoder`|
+|[Privacy-Preserving ML with Exponential Mechanism](https://github.com/kartikey2807/EXPM_NF-MIMIC3-Results)|`differential privacy` `exponential mechanism` `normalizing flows`|
 
 ---
 
