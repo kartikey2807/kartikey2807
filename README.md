@@ -1,5 +1,5 @@
-## About me
-***Kartikey Sharma***👦   
+## About me   
+***Kartikey Sharma***   
 Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)   
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
