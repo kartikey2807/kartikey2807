@@ -33,5 +33,5 @@ Near the end of my master's, I interned with the R&D team at Scania, where I fur
 ## Get in touch
 
 <div align="justify">
-I would love to collaborate with other researchers in the AI/ML space. You can reach out to me on my personal email.
+I would love to collaborate with other researchers in the AI/ML space. You can reach out to me at my personal email. (given above)
 </div>
