@@ -46,7 +46,7 @@ Near the end of my master's, I interned with the R&D team at Scania, where I fur
 ## What am I doing now?
 
 <div align="justify">
-After working on LLMs and transformer-based models (BERT), I have a good grasp of the model fundamentals, and now I want to work with tool calling, orchestration, and MPC servers to build an end-to-end AI agent. The current agent is aimed at reading my code repositories and creating the README.md, defining the project ideas, limitations, experiments, and results. 
+After working on LLMs and transformer-based models (BERT), I have a good grasp of the model fundamentals, and now I want to work with tool calling, orchestration, and MPC servers to build end-to-end AI agents. The current agent aims to read my code repositories and create the README.md, summarizing the project ideas, limitations, experiments, and results. This would certainly be a single-agent system.
 </div>
 
 ---
