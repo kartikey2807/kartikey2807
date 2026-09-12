@@ -46,7 +46,7 @@ Near the end of my master's, I interned with the R&D team at Scania, where I fur
 ## What am I doing now?
 
 <div align="justify">
-After working on <a href="https://github.com/kartikey2807/Uppsala-events-guide-Bot">LLMs</a> and transformer-based models (<a href="https://github.com/kartikey2807/Tweet-Sentiment-Analysis">BERT</a>), I have a good grasp of the model fundamentals, and now I want to work with tool calling, orchestration, and MPC servers to build end-to-end AI agents. The current agent aims to read my code repositories and create the README.md, summarizing the project ideas, limitations, experiments, and results. This would certainly be a single-agent system. Next, I will move on to a multi-agent system for continuous code improvement, where one agent is responsible for generating edge test cases for my code and testing it, and the other one aims to update the codebase depending on the failure instances. (Here)
+After working on <a href="https://github.com/kartikey2807/Uppsala-events-guide-Bot">LLMs</a> and transformer-based models (<a href="https://github.com/kartikey2807/Tweet-Sentiment-Analysis">BERT</a>), I have a good grasp of the model fundamentals, and now I want to work with tool calling, orchestration, and MPC servers to build end-to-end AI agents. The current agent aims to read my code repositories and create the README.md, summarizing the project ideas, limitations, experiments, and results. This would certainly be a single-agent system. Next, I will move on to a multi-agent system for continuous code improvement, where one agent is responsible for generating edge test cases for my code and testing it, and the other one aims to update the codebase depending on the failure instances. code
 </div>
 
 ---
