@@ -4,7 +4,7 @@ Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
 <div align="justify">
-I recently completed my master's studies in data science, specializing in machine learning and statistics, at Uppsala University, and have hands-on experience with generative modeling (LLMs, GANs, VAEs, etc.), privacy-based machine learning, and distributed learning in edge networks.
+I have recently completed my master's studies in data science, specializing in machine learning and statistics, at Uppsala University, and have hands-on experience with generative modeling (LLMs, GANs, VAEs, etc.), privacy-based machine learning, and distributed learning in edge networks.
 </div>
 <br>
 
