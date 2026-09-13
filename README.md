@@ -4,7 +4,7 @@ Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
 <div align="justify">
-I recently completed my master's in data science, specializing in machine learning and statistics, from Uppsala University, and have hands-on experience in generative modeling (LLMs, GANs, VAEs, etc.), privacy-based ML, and distributed learning in edge networks.
+I recently completed my master's in data science, specializing in machine learning and statistics, from Uppsala University, and have hands-on experience in generative modeling (LLMs, GANs, VAEs, etc.), privacy-based ML, and distributed learning in edge networks. My master's thesis was in collaboration with Scania, where I implemented transformer-based VAEs to detect anomalies in truck components for predictive maintenance and trained the model using online and federated learning to improve generalizability and communication efficiency while satisfying the memory constraints.
 </div>
 <br>
 
