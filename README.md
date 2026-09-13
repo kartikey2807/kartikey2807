@@ -1,16 +1,45 @@
-## Hi there 👋
+## About me   
+***Kartikey Sharma*** 🧐   
+Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)   
+LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
-<!--
-**kartikey2807/kartikey2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+I recently completed my master's in data science, specializing in machine learning and statistics, from Uppsala University, and have hands-on experience in generative modeling (LLMs, GANs, VAEs, etc.), privacy-based ML, and distributed learning in edge networks. I did my master's thesis at Scania AB, where I implemented a transformer-based variational autoencoder to identify anomalies in truck components for predictive maintenance and trained the model using online and federated learning to improve generalizability and communication efficiency while satisfying memory constraints. I also collaborated with researchers from Uppsala University to build robustness into FL training by using a distributed WGAN model to detect and filter malicious clients (with data or gradient poisoning) during aggregation. Aside from this, I have worked with AI Sweden to develop a novel privacy-preserving model using the exponential mechanism, approximated with normalizing flows, and empirically compared it against the SoTA DPSGD in terms of performance and privacy leakage to membership inference attacks. This is a brief overview of my machine learning projects. You can find the links to them below. What am I doing now? I am building single- and multi-agent AI systems, using open-weight models like Qwen2.5:7B to power my local agent, and experimenting with third-party APIs, custom tools, and RAG. <i>Below are some tools/languages I worked with</i>:-
+</div>
+<br>
 
-Here are some ideas to get you started:
+**Languages/Libraries**: Python, C++, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Transformers, FEDn, Flower, and LangChain   
+**Cloud Services**: AWS S3 buckets, Data Migration Service (DMS), EC2, and SageMaker    
+**Database Query Languages**: SQL  
+**DBMS**: PostgreSQL, Snowflake, Elastic DB, and AWS Redshift  
+**Visualization Tools**: Microsoft Power BI  
+**Version Control**: Git  
+**Orchestration Tools**: Apache Kafka, Apache Airflow, Docker, Ansible, and Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Project|Skills|
+|:------|:-----|
+|[Online and Federated Learning for Predictive Maintenance](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2083501&dswid=5960)|`federated learning` `online learning` `transformers` `autoencoder`|
+|[Privacy-Preserving ML with Exponential Mechanism](https://github.com/kartikey2807/EXPM_NF-MIMIC3-Results)|`differential privacy` `exponential mechanism` `normalizing flows`|
+|[Byzantine-Robust Federated Learning with WCGAN](https://github.com/kartikey2807/robust-federated-learning)|`conditional GANs` `federated learning` `MNIST` `PyTorch`|
+|[LLM ChatBot with Retrieval Augmented Generation](https://github.com/kartikey2807/Uppsala-events-guide-Bot)|`Gemini API` `LangChain` `RAG` `Elastic DB` `Gradio` `chatbots` `LLMs`|
+
+
+**Publications** 📖
+
+```
+@inproceedings{sharma2022wasserstein,
+  title={Wasserstein GANs-Enabled Spectral Normalization on Credit Card Fraud Detection},
+  author={Sharma, Kartikey and Sharma, Abhishek and Bansal, Sulabh},
+  booktitle={International Conference on Innovations in Computational Intelligence and Computer Vision},
+  pages={155--166},
+  year={2022},
+  organization={Springer}
+}
+```
+
+## Experience
+
+<div align="justify">
+Near the end of my master's, I interned with the R&D team at Scania, where I further improved on the work from my thesis <i>Online and Federated Learning for Predictive Maintenance in Heavy-Duty Vehicles</i>. I generated new sensor data streams (modeled as bounded random walks) from a <a href="https://www.causalchamber.ai/">Causal Chamber</a> wind tunnel device. And added stochastic degradation artifacts to roughly mimic the wear and tear of a mechanical truck component. I referred to the existing <a href="https://github.com/mohyunho/N-CMAPSS_DL">N-CMAPSS</a> remaining useful life (RUL) dataset. Then I developed a deployable, lightweight federated learning framework to train multiple models collaboratively to estimate the health index, improving generalizability without exposing the underlying data. I used a cumulative sum (CUSUM) statistical test to evaluate model performance in tracking the health index. I have also worked as a data analyst for over 2 years in the US healthcare space, collaborating with hospitals and insurance providers. I built Python workflows to integrate medical, claims, and pharmacy data into a unified data model, and used AWS S3, DMS, and Snowflake to streamline data ingestion and cloud warehousing. I was responsible for maintaining the ETL scripts on Redshift and making changes based on customer requirements. I also developed PostgreSQL validation scripts to ensure consistency between the database schema and flag KPI deviations, and automated the ingestion and validation processes, reducing data update time by 35%. Lastly, I developed Power BI dashboards to track medication expenditures and rank care providers based on readmission rates and operating costs. I delivered insights to help our clients reduce drug expenses by 8% and improve patient care.
+</div>
+</div>
