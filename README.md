@@ -1,10 +1,10 @@
 ## About me   
-***Kartikey Sharma***   
+***Kartikey Sharma*** 🧐   
 Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)   
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
 <div align="justify">
-I recently completed my master's in data science, specializing in machine learning and statistics, from Uppsala University, and have hands-on experience in generative modeling (LLMs, GANs, VAEs, etc.), privacy-based ML, and distributed learning in edge networks. I did my master's thesis at Scania, where I implemented a <i>transformer-based variational autoencoder</i> to identify anomalies in truck components for predictive maintenance and trained the model using online and federated learning to improve generalizability and communication efficiency while satisfying memory constraints. I also collaborated with researchers from Uppsala University to build robustness into FL training by using a <i>distributed WGAN</i> model to detect and filter malicious clients (with data or gradient poisoning) during aggregation. Aside from this, I have worked with AI Sweden to develop a novel <i>privacy-preserving model</i> using the exponential mechanism and empirically compared it against state-of-the-art DPSGD in terms of performance and privacy leakage to membership inference attacks. Before my master's, I was working as a data analyst in the US healthcare space. Tools and languages I worked with:-
+I recently completed my master's in data science, specializing in machine learning and statistics, from Uppsala University, and have hands-on experience in generative modeling (LLMs, GANs, VAEs, etc.), privacy-based ML, and distributed learning in edge networks. I did my master's thesis at Scania, where I implemented a <i>transformer-based variational autoencoder</i> to identify anomalies in truck components for predictive maintenance and trained the model using online and federated learning to improve generalizability and communication efficiency while satisfying memory constraints. I also collaborated with researchers from Uppsala University to build robustness into FL training by using a <i>distributed WGAN</i> model to detect and filter malicious clients (with data or gradient poisoning) during aggregation. Aside from this, I have worked with AI Sweden to develop a novel <i>privacy-preserving model</i> using the exponential mechanism and empirically compared it against state-of-the-art DPSGD in terms of performance and privacy leakage to membership inference attacks. Before my master's, I was working as a data analyst in the US healthcare space. Tools and languages 💻 I work with.
 </div>
 <br>
 
@@ -24,7 +24,7 @@ I recently completed my master's in data science, specializing in machine learni
 |[LLM ChatBot with Retrieval Augmented Generation](https://github.com/kartikey2807/Uppsala-events-guide-Bot)|`Gemini API` `LangChain` `RAG` `Elastic DB` `Gradio` `chatbots` `LLMs`|
 
 
-**Publications**
+**Publications** 📖
 
 ```
 @inproceedings{sharma2022wasserstein,
