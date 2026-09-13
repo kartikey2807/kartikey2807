@@ -4,7 +4,7 @@ Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
 <div align="justify">
-I recently completed my master's in data science, specializing in machine learning and statistics, at Uppsala University, and have hands-on experience with generative modeling (LLMs, GANs, VAEs, etc.), privacy-based machine learning, and distributed learning in edge networks. I did my master's thesis at Scania, where I implemented a VAE model to detect anomalies in truck components for predictive maintenance, and trained it using online and federated machine learning to improve model generalizability and communication efficiency while also satisfying the memory constraints.
+I recently completed my master's studies in data science, specializing in machine learning and statistics, at Uppsala University, and have hands-on experience with generative modeling (LLMs, GANs, VAEs, etc.), privacy-based machine learning, and distributed learning in edge networks.
 </div>
 <br>
 
@@ -42,15 +42,4 @@ I recently completed my master's in data science, specializing in machine learni
 <div align="justify">
 Near the end of my master's, I interned with the R&D team at Scania, where I further improved on the work from my thesis <i>Online and Federated Learning for Predictive Maintenance in Heavy-Duty Vehicles</i>. I generated new sensor data streams (modeled as bounded random walks) from a <a href="https://www.causalchamber.ai/">Causal Chamber</a> wind tunnel device. And added stochastic degradation artifacts to roughly mimic the wear and tear of a mechanical truck component. I referred to the existing <a href="https://github.com/mohyunho/N-CMAPSS_DL">N-CMAPSS</a> remaining useful life (RUL) dataset. Then I developed a deployable, lightweight federated learning framework to train multiple models collaboratively to estimate the health index, improving generalizability without exposing the underlying data. I used a cumulative sum (CUSUM) statistical test to evaluate model performance in tracking the health index. I have also worked as a data analyst for over 2 years in the US healthcare space, collaborating with hospitals and insurance providers. I built Python workflows to integrate medical, claims, and pharmacy data into a unified data model, and used AWS S3, DMS, and Snowflake to streamline data ingestion and cloud warehousing. I was responsible for maintaining the ETL scripts on Redshift and making changes based on customer requirements. I also developed PostgreSQL validation scripts to ensure consistency between the database schema and flag KPI deviations, and automated the ingestion and validation processes, reducing data update time by 35%. Lastly, I developed Power BI dashboards to track medication expenditures and rank care providers based on readmission rates and operating costs. I delivered insights to help our clients reduce drug expenses by 8% and improve patient care.
 </div>
-
-## What am I doing now?
-
-<div align="justify">
-After working on <a href="https://github.com/kartikey2807/Uppsala-events-guide-Bot">LLMs</a> and transformer-based models (<a href="https://github.com/kartikey2807/Tweet-Sentiment-Analysis">BERT</a>), I have a good grasp of the model fundamentals, and now I want to work with tool calling, orchestration, and MPC servers to build end-to-end AI agents. The current agent aims to read my code repositories and create the README.md, summarizing the project ideas, limitations, experiments, and results. This would certainly be a single-agent system. Next, I will move on to a multi-agent system for continuous code improvement, where one agent is responsible for generating edge test cases for my code and testing it, and the other one aims to update the codebase depending on the failure instances. code
-</div>
-
----
-
-<div align="justify">
-I would love to collaborate with other researchers in the AI/ML space. You can reach out to me at my personal **email**. (given above)
 </div>
