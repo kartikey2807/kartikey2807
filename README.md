@@ -1,5 +1,5 @@
 ## About me   
-***Kartikey Sharma*** 🧐   
+***Kartikey Sharma***    
 Personal Email: [kartikey2807@gmail.com](mailto:kartikey2807@gmail.com)   
 LinkedIn: [kartikey2807](https://www.linkedin.com/in/kartikey2807)
 
@@ -24,7 +24,7 @@ I recently completed my master's in data science, specializing in machine learni
 |[LLM ChatBot with Retrieval Augmented Generation](https://github.com/kartikey2807/Uppsala-events-guide-Bot)|`Gemini API` `LangChain` `RAG` `Elastic DB` `Gradio` `chatbots` `LLMs`|
 
 
-**Publications** 📖
+**Publications**
 
 ```
 @inproceedings{sharma2022wasserstein,
