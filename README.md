@@ -22,6 +22,7 @@ I recently completed my master's in data science, specializing in machine learni
 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" width="200px"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/DeepSeek-icon.svg/3840px-DeepSeek-icon.svg.png" width="200px"><img src="https://www.openpolicyagent.org/assets/images/elasticsearch-datafiltering-44356f7295b6506fb8535d4fd5e145ff.png" width="200px"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png" width="200px">
 
+> Ollama, DeepSeekR1, Elastic DB, and LangChain
 
 |Project|Skills|
 |:------|:-----|
