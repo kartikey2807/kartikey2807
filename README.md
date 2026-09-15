@@ -16,13 +16,19 @@ I recently completed my master's in data science, specializing in machine learni
 **Version Control**: Git  
 **Orchestration Tools**: Apache Kafka, Apache Airflow, Docker, Ansible, and Kubernetes
 
+---
+
+***Current Local AI agent Stack***
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" width="200px"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/DeepSeek-icon.svg/3840px-DeepSeek-icon.svg.png" width="200px"><img src="https://www.openpolicyagent.org/assets/images/elasticsearch-datafiltering-44356f7295b6506fb8535d4fd5e145ff.png" width="200px"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png" width="200px">
+
+
 |Project|Skills|
 |:------|:-----|
 |[Online and Federated Learning for Predictive Maintenance](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2083501&dswid=5960)|`federated learning` `online learning` `transformers` `autoencoder`|
 |[Privacy-Preserving ML with Exponential Mechanism](https://github.com/kartikey2807/EXPM_NF-MIMIC3-Results)|`differential privacy` `exponential mechanism` `normalizing flows`|
 |[Byzantine-Robust Federated Learning with WCGAN](https://github.com/kartikey2807/robust-federated-learning)|`conditional GANs` `federated learning` `MNIST` `PyTorch`|
 |[LLM ChatBot with Retrieval Augmented Generation](https://github.com/kartikey2807/Uppsala-events-guide-Bot)|`Gemini API` `LangChain` `RAG` `Elastic DB` `Gradio` `chatbots` `LLMs`|
-
 
 **Publications**
 
